@@ -19,8 +19,8 @@ xmrig-c3 arm 预编译版
 
 
 - sudo apt-get install git build-essential cmake libuv1-dev libssl-dev libhwloc-dev
-- git clone https://github.com/xmrig/xmrig.git
-- mkdir xmrig/build && cd xmrig/build
+- git clone https://github.com/C3Pool/xmrig-C3.git
+- mkdir xmrig-C3/build && cd xmrig-C3/build
 - cmake ..
 - make -j4
 
